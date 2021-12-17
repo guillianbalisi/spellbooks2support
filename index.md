@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<img src="https://user-images.githubusercontent.com/16737168/146497636-c8ad4a3b-1562-4898-beaa-d5e84ee7be25.png" width=500>
 
-You can use the [editor on GitHub](https://github.com/guillianbalisi/spellbooks2support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Spellbooks 2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dungeons & Dragons spells in the palms of your hands. Easily access all the spells in the 5th Edition using Spellbooks 2.
 
-### Markdown
+Features:
+- Search and find any spell and get all of the details
+- Use filters to quickly narrow down your spell search
+- Create spellbooks for your characters to save a list of known and prepared spells and keep track of spell slots
+- Use the dice roller to track your rolls and easily add them up
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Privacy Policy
 
-```markdown
-Syntax highlighted code block
+Spellbooks 2 does not collect nor store any of your data.
 
-# Header 1
-## Header 2
-### Header 3
+## Support
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guillianbalisi/spellbooks2support/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions, feedback, or require assistance please reach out to guillianbalisi@gmail.com
